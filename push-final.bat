@@ -31,6 +31,14 @@ git push -u origin main
 
 echo.
 echo ========================================
+echo Build workflow changed to 'build-apk-simple.yml'
+echo Check: https://github.com/Mousse-yu/financial-app/actions
+echo ========================================
+echo.
+pause
+
+echo.
+echo ========================================
 echo Check: https://github.com/Mousse-yu/financial-app
 echo ========================================
 echo.
